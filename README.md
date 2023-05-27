@@ -1,4 +1,5 @@
 # Power-System-Electric-Distribution-System
+Distribution System Modeling and Analysis- Kersting's unsolved problems from Chapter-10
 ![image](https://github.com/Divya-Samudra/Power-System-Electric-Distribution-System/assets/130666521/5b589cab-b8c0-426b-a18c-e7907596bb01)
 ![image](https://github.com/Divya-Samudra/Power-System-Electric-Distribution-System/assets/130666521/41cff682-b1af-4407-9df4-4d2f28924654)
 ![image](https://github.com/Divya-Samudra/Power-System-Electric-Distribution-System/assets/130666521/2ea4fcd3-c910-4faf-88de-24b0a0095d25)
